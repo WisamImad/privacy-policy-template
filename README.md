@@ -1,8 +1,4 @@
-# Privacy Policy Template
-
-
-This Privacy Policy Template is covers the general privacy concerns and regulations. I hope you find it useful and a good starting point in compiling your own privacy policy for use on your own website or app. Feel free to add stuff that I haven't added, and remove stuff that you don't like. If there are ways that I can do things better, you should absolutely report issues or send me a pull request because I love them so much.
-
+# Privacy Policy
 
 ## What is a Privacy Policy
 
@@ -15,11 +11,9 @@ A privacy policy is a description of what you do with personal data.  The critic
 
 Personal data is any kind of data or information that can be considered personal (identifies an individual):
 
-* First and last name
-* Email address
-* Billing and shipping address
-* Credit card information
-* And so on
+* wisam imad abu stitan
+* wisamimad8@gmail.com
+* https://wa.me/+972595656838
 
 
 ## When is required a Privacy Policy
@@ -67,10 +61,6 @@ This Privacy Policy Template is licensed under the [GNU General Public License, 
 
 Arthur Garegnyan
 
-* Email: arthurgareginyan@gmail.com
+* Email: wisamimad8@gmail.com
 
-* GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
-
-* Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
-
-* Donation: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
+* GitHub: (https://wa.me/+972595656838)
